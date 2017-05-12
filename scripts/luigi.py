@@ -1,4 +1,4 @@
-lang-python
+
 import luigi
 
 class HelloWorld(luigi.Task):
